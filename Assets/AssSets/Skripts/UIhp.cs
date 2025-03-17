@@ -13,6 +13,7 @@ public class UIhp : MonoBehaviour
     public int SawWingHurt = 20;
 
     // Start is called before the first frame update
+    //FurryObject
     void Start()
     {
 
